@@ -1,0 +1,4 @@
+baseURL = 'http://lancabot.com/'
+languageCode = 'en-gb'
+title = 'Lan Cabot'
+theme = "ananke"
